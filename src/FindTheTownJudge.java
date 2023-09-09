@@ -13,4 +13,3 @@ public class FindTheTownJudge {
         return -1;
     }
 }
- 
