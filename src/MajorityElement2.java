@@ -32,6 +32,4 @@ public class MajorityElement2 {
         if(count2 > nums.length / 3) res.add(num2);
         return res;        
     }
-    
-    
 }
