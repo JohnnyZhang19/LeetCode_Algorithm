@@ -12,3 +12,5 @@ class Solution:
             result.append(even[i])
             result.append(odd[i])
         return result
+    
+
